@@ -1,0 +1,123 @@
+﻿body {
+    direction: rtl;
+    background: url("../image/284add854d58cd82592e931993660b7d.jpg") no-repeat center;
+    background-size:cover;
+    background-attachment:fixed;
+    font-family:'Asakim',serif;
+}
+
+nav{
+    margin-right:100px;
+}
+nav ul li a {
+    list-style: none;
+    list-style-position: inside;
+    display:block;
+    display: inline-block;
+    float: right;
+    font-family: 'Asakim',serif;
+    font-size: 22px;
+    color: darkcyan;
+    padding: 12px;
+    margin: 15px 20px auto;
+    background-color: antiquewhite;
+    align-self: center;
+    text-decoration: none;
+    text-align: center;
+}
+    nav ul li a:hover {
+        background-color: #E8D3B0;
+    }
+    nav ul li a:active {
+        background-color: #FAC6C5;
+    }
+h1 {
+    
+    font-size: 95px;
+    text-align: right;
+    font-family:'Asakim', serif;
+    
+}
+ 
+   h2{
+        font-size:90px;
+        padding-bottom:15px;
+        font-family:'Asakim', serif;
+    }
+section {
+       
+    margin: 100px;
+    padding: 80px;
+    text-align: right;
+    background-color: antiquewhite;      
+    float: right;
+    font-size: 25px;
+    
+   
+}
+p b{
+    font-family:'Asakim',serif;
+}
+p{
+    font-family:'Asakim',serif;
+}
+#starr {
+    margin:15px 10px 90px 120px;
+   
+    text-align:right;
+    background-color: antiquewhite;
+    float: right;
+    font-size: 25px;
+}
+.cass{
+    font-size:80px;
+   }
+.casi {
+    width: 450px;
+    height: 350px;
+   
+}
+
+.casi {
+    border-image-width: 20px;
+    border-color:hotpink;
+    /* קוד האניציה*/
+    -webkit-transition: all 2s ease;
+    -moz-transition: all 2s ease;
+    -ms-transition: all 2s ease;
+    -o-transition: all 2s ease;
+    transition: all 2s ease;
+}
+
+    /* מצב באינטארקציה (במקרה שלנו מעבר עכבר))*/
+    .casi:hover {
+        width: 400px;
+        height: 400px;
+        background-color: purple;
+    }
+    #giladi{
+
+        width: 400px;
+    height: 350px;
+    margin: 15px;
+    padding: 15px;
+    }
+#gilad {
+    width: 400px;
+    height: 350px;
+    margin: 15px;
+    padding: 15px;
+}
+
+#postcard {
+    width: 400px;
+    height: 350px;
+    margin: 15px;
+    padding: 15px;
+}
+#postcardi {
+    width: 400px;
+    height: 350px;
+    margin: 15px;
+    padding: 15px
+}
